@@ -21,7 +21,7 @@ func main() {
 			FileAndStream: &pb.FileAndStreamOutput{
 				FileType: pb.EncodedFileType_MP4,
 				Filepath: "again.mp4",
-				Urls:     []string{"rtmp://a.rtmp.youtube.com/live2/52ah-1jja-k4mb-7716-8hhp"},
+				Urls:     []string{<your url>},
 			},
 		},
 	}
